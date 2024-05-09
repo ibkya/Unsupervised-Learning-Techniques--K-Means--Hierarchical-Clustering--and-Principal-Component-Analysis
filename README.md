@@ -1,0 +1,1 @@
+This GitHub repo covers unsupervised learning: discovering patterns, structures, and relationships in data without supervision. It focuses on K-Means (clustering), Hierarchical Clustering (tree-like clusters), and PCA (dimensionality reduction). Gain a comprehensive understanding of these techniques for learning and application."
